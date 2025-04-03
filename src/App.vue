@@ -4,7 +4,7 @@
       <h1 class="title flex items-center gap-2 text-blue-900">
         Téléchargez <img src="/src/assets/Logo_aide_asso.png" alt="Logo" class="h-8 w-auto" />
       </h1>
-      <a href="/public/app-release.apk" download class="download-button">Télécharger l'APK</a>
+      <a href="/app-release.apk" download class="download-button">Télécharger l'APK</a>
     </div>
   </div>
 </template>
